@@ -1,0 +1,26 @@
+﻿Zadanie
+
+wersja 1
+
+Wczytaj dwie liczby (po kolei)
+np. 
+12
+160
+
+Program niech wypisuje jako wynik sumę tych liczb i ile miejsca zajmuje wyświetlenie
+np.
+172
+3
+
+
+wersja 2
+Wczytaj dwie liczby (w jednej linii)
+np. 
+12+160
+
+Program niech wypisuje jako wynik sumę tych liczb i ile miejsca zajmuje wyświetlenie
+np.
+172
+3
+
+

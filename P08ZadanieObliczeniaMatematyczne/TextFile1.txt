@@ -1,0 +1,8 @@
+﻿Zadanie
+
+Wczytaj dwie liczby rozdzielone operatorem z puli * / + - %
+np
+234*4
+
+Program niech policzy i wyświetli wynik 
+936
